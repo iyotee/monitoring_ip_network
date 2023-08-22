@@ -14,5 +14,5 @@ Gère les interruptions par Ctrl+C pour une sortie propre.
 #Utilisation :
 
 Assurez-vous que le programme nmap est installé sur votre système.
-Exécutez le script en tant qu'exécutable : ./nom_du_script.sh.
+Exécutez le script en tant qu'exécutable : ./monitoring.sh
 Note : Si nmap n'est pas installé, le script tentera de l'installer automatiquement. En cas d'échec, une installation manuelle de nmap est requise..
